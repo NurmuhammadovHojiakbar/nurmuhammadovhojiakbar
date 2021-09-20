@@ -13,7 +13,7 @@ I'm a graduate in FrontEnd Web Development 🎓 from MayoqHub in Ferghana 🏛. 
 - 🛠 &nbsp; I’m currently working with React, Redux, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nurmuhammadovhojiakbar).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/nurmuhammadovhojiakbar/nurmuhammadovhojiakbar/issues/2)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/nurmuhammadovhojiakbar/nurmuhammadovhojiakbar/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: pythoncoderuz@gmail.com.
 
