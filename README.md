@@ -1,27 +1,27 @@
-## Hey ??, I'm [Hojiakbar Nurmuhammadov!](https://github.com/NurmuhammadovHojiakbar/)
+## Hey 👋, I'm [Hojiakbar Nurmuhammadov!](https://github.com/NurmuhammadovHojiakbar/)
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/hojiakbar_nurmuhammadov)
 
 ### Glad to see you here!
 
-I'm a graduate in FrontEnd Web Development ?? from MayoqHub in Ferghana ??. I'm a passionate learner who's always willing to learn and work across technologies and domains ??. I love to explore new technologies and leverage them to solve real-life problems ?. Apart from that I also love to guide and mentor newbies ???????. I'm currently into Web Development ??? and working on my Data Structures and Algorithms ??.
+I'm a graduate in FrontEnd Web Development 🎓 from MayoqHub in Ferghana 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 <img align="right" height="250" width="375" alt="Coder Gif" src="https://raw.githubusercontent.com/nurmuhammadovhojiakbar/nurmuhammadovhojiakbar/main/assets/code.gif" />
 
-### ?? More About Me:
+### 🧑‍ More About Me:
 
-- ?? &nbsp; I�m currently working with React, Redux, Javascript, etc.
-- ?? &nbsp; I�m currently learning Full Stack Development.
-- ??????? &nbsp; Most of my projects are available on [Github](https://github.com/nurmuhammadovhojiakbar).
-- ?? &nbsp; Ask me about anything [here](https://github.com/nurmuhammadovhojiakbar/nurmuhammadovhojiakbar/issues/2)! I am happy to help.
-- ?? &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- ?? &nbsp; How to reach me: pythoncoderuz@gmail.com.
+- 🛠 &nbsp; I’m currently working with React, Redux, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nurmuhammadovhojiakbar).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/nurmuhammadovhojiakbar/nurmuhammadovhojiakbar/issues/2)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 📫 &nbsp; How to reach me: pythoncoderuz@gmail.com.
 
 ### My Absolute Favorites:
 
-- ?? &nbsp; I love exploring new tech stack and building cool stuffs.
-- ?? &nbsp; Reading & writing tech blogs whenever possible.
-- ?? &nbsp; Hackathons, meetups & tech events.
+- 💻  &nbsp; I love exploring new tech stack and building cool stuffs.
+- 📰  &nbsp; Reading & writing tech blogs whenever possible.
+- 🍕  &nbsp; Hackathons, meetups & tech events.
 
 
 
@@ -44,7 +44,7 @@ I'm a graduate in FrontEnd Web Development ?? from MayoqHub in Ferghana ??. I'm 
 ### Projects and Dev Stuffs:
 
 <details>	
-  <summary><b>? Github Stats</b></summary>
+  <summary><b>⚡ Github Stats</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nurmuhammadovhojiakbar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
@@ -52,7 +52,7 @@ I'm a graduate in FrontEnd Web Development ?? from MayoqHub in Ferghana ??. I'm 
 </details>
 
 <details>	
-  <summary><b>?? Github Streaks</b></summary>
+  <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nurmuhammadovhojiakbar&hide_border=true" />
