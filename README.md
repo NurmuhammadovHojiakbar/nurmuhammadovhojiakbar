@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Hojiakbar Nurmuhammadov!](https://github.com/NurmuhammadovHojiakbar/)
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/hojiakbar_nurmuhammadov)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)]([https://t.me/hojiakbar_nurmuhammadov](https://t.me/hojiakbar_dev))
 
 ### Glad to see you here!
 
